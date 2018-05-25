@@ -1,1 +1,1 @@
-һ����̬����laydate��С���ӡ�
+一个动态添加laydate的小栗子。
